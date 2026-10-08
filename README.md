@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mandip Rai
+# Brandon Neil
 
 **Senior software engineer** — full-stack, systems, and applied computer vision.
 
